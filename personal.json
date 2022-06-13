@@ -1,0 +1,109 @@
+{
+    "__class__": "ColeccionPersonal",
+    "personas": [
+        {
+            "__class__": "docenteinvestigador",
+            "__atributos__": {
+                "cuil": "20-55555555-2",
+                "apellido": "Gentili",
+                "nombre": "Emi",
+                "sueldoBasico": 6000000.0,
+                "antiguedad": 2,
+                "areaInvestigacion": "Uso de la Inteligencia Artificial en el cuerpo humano",
+                "tipoInvestigacion": "Practica",
+                "carrera": "medicina",
+                "cargo": "Semiexclusivo",
+                "catedra": "etica medica",
+                "categoriaIncentivos": "V",
+                "importeExtra": 30000.0
+            }
+        },
+        {
+            "__class__": "docente",
+            "__atributos__": {
+                "cuil": "20-43123315-1",
+                "apellido": "Benemerito",
+                "nombre": "Ignacio",
+                "sueldoBasico": 500000.0,
+                "antiguedad": 5,
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Informatica"
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "cuil": "1-423324234-2",
+                "apellido": "Penia",
+                "nombre": "Juan",
+                "sueldoBasico": 50000000.0,
+                "antiguedad": 5,
+                "categoria": 21
+            }
+        },
+        {
+            "__class__": "docenteinvestigador",
+            "__atributos__": {
+                "cuil": "20-77777777-1",
+                "apellido": "De Los Rios",
+                "nombre": "Leonardo",
+                "sueldoBasico": 7000000.0,
+                "antiguedad": 5,
+                "areaInvestigacion": "Computacion cuantica",
+                "tipoInvestigacion": "Teorica",
+                "carrera": "LSI",
+                "cargo": "Semiexclusivo",
+                "catedra": "Inteligencia Artificial",
+                "categoriaIncentivos": "IV",
+                "importeExtra": 50000.0
+            }
+        },
+        {
+            "__class__": "docenteinvestigador",
+            "__atributos__": {
+                "cuil": "21-44555555-1",
+                "apellido": "Cuk",
+                "nombre": "Milko",
+                "sueldoBasico": 7000000.0,
+                "antiguedad": 3,
+                "areaInvestigacion": "Modelos de Inteligencia Artificial",
+                "tipoInvestigacion": "Teorica",
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Matematica",
+                "categoriaIncentivos": "IV",
+                "importeExtra": 300000.0
+            }
+        },
+        {
+            "__class__": "docenteinvestigador",
+            "__atributos__": {
+                "cuil": "40-22432423-1",
+                "apellido": "Babsia",
+                "nombre": "Santiago",
+                "sueldoBasico": 60000000.0,
+                "antiguedad": 5,
+                "areaInvestigacion": "Hacking",
+                "tipoInvestigacion": "Teorica",
+                "carrera": "LCC",
+                "cargo": "Semiexclusivo",
+                "catedra": "Informatica",
+                "categoriaIncentivos": "V",
+                "importeExtra": 700000.0
+            }
+        },
+        {
+            "__class__": "investigador",
+            "__atributos__": {
+                "cuil": "21-54545454-0",
+                "apellido": "Urizar",
+                "nombre": "Santiago",
+                "sueldoBasico": 900000.0,
+                "antiguedad": 3,
+                "areaInvestigacion": "Hacking",
+                "tipoInvestigacion": "Practica"
+            }
+        }
+    ]
+}
